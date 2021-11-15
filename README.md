@@ -1,0 +1,1 @@
+Scheme code for [The Functional Programming Triad of Map, Filter and Fold](https://www.slideshare.net/pjschwarz/the-functional-programming-triad-of-map-filter-and-fold)
