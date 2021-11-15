@@ -11,7 +11,7 @@
     (car items)
     (list-ref(cdr items)(- n 1))))
 
-(define squares (list 1 4 9 1 6 2 5))
+(define squares (list 1 4 9 1 6 25))
 
 (define (length items)
   (if (null? items)
